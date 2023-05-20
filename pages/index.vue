@@ -2,7 +2,7 @@
 
 <template>
 	<div>
-		<h1 class="text-3xl">debloat.io</h1>
+		<h1 class="text-4xl font-semibold">debloat.io</h1>
 	</div>
 </template>
 
